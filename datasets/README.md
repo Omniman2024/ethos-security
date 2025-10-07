@@ -1,4 +1,4 @@
-# Unified Timeline Generation
+# Unified Timeline Generation (MY CONTRIBUTION)
 
 ## Overview 📜
 This component is responsible for ingesting multiple raw, heterogeneous data sources from the campus and creating a single, clean, chronological timeline of all known events for each entity (student or staff). It serves as the foundational data preprocessing step for the entire Campus Security Monitoring System, preparing the data for analysis, monitoring, and machine learning tasks.
