@@ -44,3 +44,6 @@ The script generates a single file, **`unified_timeline.csv`**, which contains t
 2. Place the `Unified_Timeline.ipynb` notebook in the same directory as the required input CSV files.
 3. Run all cells in the Jupyter Notebook from top to bottom.
 4. The output file, `unified_timeline.csv`, will be generated in the same directory.
+
+> 💡 **Tip:** If GitHub fails to render the Jupyter Notebook (`.ipynb`) file, you can view it directly via NBviewer: 
+> **[Open Notebook in NBviewer](https://nbviewer.org/github/Omniman2024/ethos-security/blob/main/tests/Datasets/Unified_Timeline%282%29.ipynb)**
